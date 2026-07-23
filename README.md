@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/satyamgurjar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/satyamgurjar"><img src="https://www.linkedin.com/in/satyam-gurjar-381b53205?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:satyamgurjar108@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://ovyisai.tech"><img src="https://img.shields.io/badge/OvyisAI-Live_Demo-1F3864?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://ovyisai.tech"><img src="http://img.shields.io/badge/OvyisAI-Live_Demo-1F3864?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 ---
@@ -77,7 +77,7 @@ I'm a final-year AI/ML student who cares more about **shipping working systems**
 <tr>
 <td width="50%" valign="top">
 
-**🗨️ [OvyisAI](https://ovyisai.tech)**
+**🗨️ [OvyisAI](http://ovyisai.tech)**
 *Full-Stack AI Chat Assistant — LIVE*
 
 Real-time AI chat app with a React frontend and FastAPI backend, serving a locally hosted LLM via Ollama for private, cost-efficient inference. Fully deployed on AWS — servers, networking, and domain routing configured from scratch.
@@ -118,12 +118,12 @@ Deployed open-source LLMs on cloud infrastructure, built FastAPI backend service
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=satyamgurjar&show_icons=true&theme=transparent&hide_border=true&title_color=1F3864&icon_color=1F3864&text_color=333333"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamgurjar&layout=compact&theme=transparent&hide_border=true&title_color=1F3864&text_color=333333"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=satyam-gurjar&show_icons=true&theme=transparent&hide_border=true&title_color=1F3864&icon_color=1F3864&text_color=333333"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyam-gurjar&layout=compact&theme=transparent&hide_border=true&title_color=1F3864&text_color=333333"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyamgurjar&theme=transparent&hide_border=true&ring=1F3864&fire=1F3864&currStreakLabel=1F3864"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyam-gurjar&theme=transparent&hide_border=true&ring=1F3864&fire=1F3864&currStreakLabel=1F3864"/>
 </p>
 
 ---
@@ -137,5 +137,5 @@ When I'm not shipping AI systems, I'm usually in a pool, on a bike, or three tab
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=satyamgurjar&style=for-the-badge&color=1F3864" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=satyam-gurjar&style=for-the-badge&color=1F3864" alt="profile views"/>
 </p>
